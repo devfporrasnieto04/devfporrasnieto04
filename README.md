@@ -1,7 +1,11 @@
 ### Hi I'm Francisco 👋
 
-'m a [Your Profession] based in [Your Location]. I'm passionate about [Your Interests/Hobbies] and enjoy working on [Your Skills/Projects].
-
+- I'm a backend developer based in Colombia. <br>
+- I'm passionate about tecnology and enjoy working on developing.
+- 🌱 Actually I’m a student of the Java - Spring Framework backend specialization <br>
+  under the program Oracle Next Education by Orale And Alura.
+- 🔭 I’m currently working on my personal projects an others colaborations.
+-  💬 Ask me about colaborations and jobs !!
 <!--
 **devfporrasnieto04/devfporrasnieto04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
